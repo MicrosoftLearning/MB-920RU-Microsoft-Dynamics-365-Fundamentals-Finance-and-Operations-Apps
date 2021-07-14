@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Лабораторная работа 7. Создание заказа на обслуживание'
     module: 'Модуль 1. Изучение основ Microsoft Dynamics 365 Supply Chain Management'
